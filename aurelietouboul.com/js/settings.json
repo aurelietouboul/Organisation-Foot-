@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 5,
+    "php.validate.executablePath":"c:/php/php.exe"
+}
